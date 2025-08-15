@@ -23,4 +23,4 @@ The primary goal is to automate and optimize the classification process while en
 **Stakeholder Benefits:**
 **Editors & Reviewers:** Spend less time on administrative tasks and more on content evaluation.
 **Researchers & Readers**: Quickly locate relevant articles due to accurate tagging.
-**Journal Management**: Improve operational efficiency and reduce publication delays.
+**Journal Management**: Improve operational efficiency and reduce publication delays
